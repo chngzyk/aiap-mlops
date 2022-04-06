@@ -1,0 +1,22 @@
+{
+  "template": "https://github.com/aimakerspace/ml-project-cookiecutter-gcp",
+  "commit": "e324696ff52c4eb547f64fb57d777acf483c1305",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "aiap mlops",
+      "description": "MLOPs assignment for Batch 10",
+      "repo_name": "aiap-mlops",
+      "src_package_name": "aiap_mlops",
+      "src_package_name_short": "ops",
+      "gcp_project_id": "machine-learning-ops",
+      "author_name": "aiap",
+      "open_source_license": "No license file",
+      "_copy_without_render": [
+        "aisg-context/polyaxon/polyaxonfiles"
+      ],
+      "_template": "https://github.com/aimakerspace/ml-project-cookiecutter-gcp"
+    }
+  },
+  "directory": null
+}
